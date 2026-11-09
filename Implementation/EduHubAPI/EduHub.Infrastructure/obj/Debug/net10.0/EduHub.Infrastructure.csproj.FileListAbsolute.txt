@@ -1,0 +1,17 @@
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.AssemblyInfo.cs
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Infrastructure.deps.json
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Infrastructure.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Infrastructure.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Application.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Domain.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Application.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\bin\Debug\net10.0\EduHub.Domain.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.I.0F209C0B.Up2Date
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\refint\EduHub.Infrastructure.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\EduHub.Infrastructure.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Infrastructure\obj\Debug\net10.0\ref\EduHub.Infrastructure.dll

@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhubapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|solutionrelative:eduhubapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|solutionrelative:eduhubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|solutionrelative:eduhubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhubapi\\eduhubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2323C836-9FB3-78D9-3756-8BDA50F7CBC0}|EduHubAPI\\EduHubAPI.csproj|solutionrelative:eduhubapi\\eduhubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\user managment\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\user managment\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\coursetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\coursetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\user managment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\user managment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\transactions\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\transactions\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\transactions\\forumpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\transactions\\forumpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\transactions\\discussionforum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\transactions\\discussionforum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\transactions\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\transactions\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\transactions\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\transactions\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\transactions\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\transactions\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\assessments\\questionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\assessments\\questionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\assessments\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\assessments\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\assessments\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\assessments\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\assessments\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\assessments\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\assessments\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\assessments\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\user managment\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\user managment\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\eduhub.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\eduhub.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\course managment\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\course managment\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\user managment\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\user managment\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.domain\\entities\\user managment\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFB8DC8-DBB7-B302-F145-E880B3036E8F}|EduHub.Domain\\EduHub.Domain.csproj|solutionrelative:eduhub.domain\\entities\\user managment\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20846196-9284-2587-F2D5-2C6BBAB56F17}|EduHub.Application\\EduHub.Application.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.application\\eduhub.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20846196-9284-2587-F2D5-2C6BBAB56F17}|EduHub.Application\\EduHub.Application.csproj|solutionrelative:eduhub.application\\eduhub.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E3218-C8C3-5492-DBF6-8ADD7B14EE2D}|EduHub.Infrastructure\\EduHub.Infrastructure.csproj|c:\\users\\compumarts\\desktop\\depi\\gp\\eduhubapi\\eduhub.infrastructure\\eduhub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{910E3218-C8C3-5492-DBF6-8ADD7B14EE2D}|EduHub.Infrastructure\\EduHub.Infrastructure.csproj|solutionrelative:eduhub.infrastructure\\eduhub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "copilot-instructions.md",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\.github\\copilot-instructions.md",
+              "RelativeDocumentMoniker": ".github\\copilot-instructions.md",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\.github\\copilot-instructions.md",
+              "RelativeToolTip": ".github\\copilot-instructions.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-07T15:00:06.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EduHubAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\appsettings.json",
+              "RelativeToolTip": "EduHubAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T14:43:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EduHubAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "EduHubAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T14:42:14.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\SubCategory.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\SubCategory.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\SubCategory.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\SubCategory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:13:09.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EduHubAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\Program.cs",
+              "RelativeToolTip": "EduHubAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:52:52.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Material.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\Material.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Material.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\Material.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:14:14.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Lesson.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\Lesson.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Lesson.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\Lesson.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:14:02.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseTag.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\CourseTag.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\CourseTag.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\CourseTag.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\CourseTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:13:47.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Category.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\Category.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Category.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:13:00.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EduHubAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\EduHubAPI.csproj",
+              "RelativeDocumentMoniker": "EduHubAPI\\EduHubAPI.csproj",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHubAPI\\EduHubAPI.csproj",
+              "RelativeToolTip": "EduHubAPI\\EduHubAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T12:45:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Course.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\Course.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Course.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\Course.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:12:51.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\Student.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\User Managment\\Student.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\Student.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\User Managment\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:03:10.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Review.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Transactions\\Review.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Review.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Transactions\\Review.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:15:55.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\User.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\User Managment\\User.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\User.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\User Managment\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:01:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForumPost.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\ForumPost.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Transactions\\ForumPost.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\ForumPost.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Transactions\\ForumPost.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:11.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscussionForum.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\DiscussionForum.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Transactions\\DiscussionForum.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\DiscussionForum.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Transactions\\DiscussionForum.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:02.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Certificate.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Transactions\\Certificate.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Certificate.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Transactions\\Certificate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:15:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Payment.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Transactions\\Payment.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Payment.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Transactions\\Payment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:15:17.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Enrollment.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Transactions\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Transactions\\Enrollment.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Transactions\\Enrollment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:15:07.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuestionOption.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\QuestionOption.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Assessments\\QuestionOption.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\QuestionOption.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Assessments\\QuestionOption.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\Quiz.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Assessments\\Quiz.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\Quiz.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Assessments\\Quiz.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuizAttempt.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Assessments\\QuizAttempt.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\QuizAttempt.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Assessments\\QuizAttempt.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:47.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\StudentAnswer.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Assessments\\StudentAnswer.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\StudentAnswer.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Assessments\\StudentAnswer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:54.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\Question.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Assessments\\Question.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Assessments\\Question.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Assessments\\Question.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:16:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\Instructor.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\User Managment\\Instructor.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\Instructor.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\User Managment\\Instructor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:03:17.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EduHub.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\EduHub.Domain.csproj",
+              "RelativeDocumentMoniker": "EduHub.Domain\\EduHub.Domain.csproj",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\EduHub.Domain.csproj",
+              "RelativeToolTip": "EduHub.Domain\\EduHub.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T12:49:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Module.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\Course Managment\\Module.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\Course Managment\\Module.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\Course Managment\\Module.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:13:54.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\Role.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\User Managment\\Role.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\Role.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\User Managment\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:01:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\UserRole.cs",
+              "RelativeDocumentMoniker": "EduHub.Domain\\Entities\\User Managment\\UserRole.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Domain\\Entities\\User Managment\\UserRole.cs",
+              "RelativeToolTip": "EduHub.Domain\\Entities\\User Managment\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:02:19.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EduHub.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Application\\EduHub.Application.csproj",
+              "RelativeDocumentMoniker": "EduHub.Application\\EduHub.Application.csproj",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Application\\EduHub.Application.csproj",
+              "RelativeToolTip": "EduHub.Application\\EduHub.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T12:46:40.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EduHub.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Infrastructure\\EduHub.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EduHub.Infrastructure\\EduHub.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Desktop\\Depi\\GP\\EduHubAPI\\EduHub.Infrastructure\\EduHub.Infrastructure.csproj",
+              "RelativeToolTip": "EduHub.Infrastructure\\EduHub.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T12:46:14.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

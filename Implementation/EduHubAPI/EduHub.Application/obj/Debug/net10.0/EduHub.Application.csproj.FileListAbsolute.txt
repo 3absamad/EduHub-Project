@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.AssemblyInfo.cs
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\bin\Debug\net10.0\EduHub.Application.deps.json
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\bin\Debug\net10.0\EduHub.Application.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\bin\Debug\net10.0\EduHub.Application.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\bin\Debug\net10.0\EduHub.Domain.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\bin\Debug\net10.0\EduHub.Domain.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.A.77F9212D.Up2Date
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\refint\EduHub.Application.dll
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\EduHub.Application.pdb
+C:\Users\COMPUMARTS\Desktop\Depi\GP\EduHubAPI\EduHub.Application\obj\Debug\net10.0\ref\EduHub.Application.dll

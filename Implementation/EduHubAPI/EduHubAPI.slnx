@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EduHub.Application/EduHub.Application.csproj" />
+  <Project Path="EduHub.Domain/EduHub.Domain.csproj" />
+  <Project Path="EduHub.Infrastructure/EduHub.Infrastructure.csproj" />
+  <Project Path="EduHubAPI/EduHubAPI.csproj" />
+</Solution>

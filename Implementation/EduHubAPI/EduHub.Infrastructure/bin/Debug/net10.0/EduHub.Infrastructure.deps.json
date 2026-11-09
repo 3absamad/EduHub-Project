@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EduHub.Infrastructure/1.0.0": {
+        "dependencies": {
+          "EduHub.Application": "1.0.0",
+          "EduHub.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EduHub.Infrastructure.dll": {}
+        }
+      },
+      "EduHub.Application/1.0.0": {
+        "dependencies": {
+          "EduHub.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EduHub.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EduHub.Domain/1.0.0": {
+        "runtime": {
+          "EduHub.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EduHub.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EduHub.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EduHub.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
